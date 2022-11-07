@@ -1,6 +1,7 @@
 ## **Карасев Степан**
 
 # Сервис принимает и отвечает на http запросы
+[ТЗ.Python.docx](https://github.com/YxTiBlya/mediasoft_service/files/9955178/Python.docx)
 
 ### Запуск через Docker compose
 1. Склонировать репозиторий.
