@@ -6,3 +6,4 @@ Dockerfile
 Dockerfile.db
 .dockerignore
 postgres_data/
+postgres_dump.sql
