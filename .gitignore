@@ -1,0 +1,8 @@
+__pycache__
+test.py
+venv/
+.env
+Dockerfile
+Dockerfile.db
+.dockerignore
+postgres_data/
